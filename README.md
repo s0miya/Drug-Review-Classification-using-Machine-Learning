@@ -1,1 +1,1 @@
-# Drug-review-sentiment-analysis
+# Drug-reviews-sentiment-analysis
